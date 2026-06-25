@@ -7,7 +7,7 @@ import { useRef } from "react"
 
 const SecondVideo = () => {
 
-    const videoRef = useRef()
+    const videoRef = useRef(null)
 
 
     useGSAP(() => {

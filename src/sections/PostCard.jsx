@@ -15,7 +15,6 @@ const PostCard = () => {
                 start: 'top center',
                 end: 'bottom center',
                 scrub: true,
-                pin: true
 
             }
         })
@@ -36,7 +35,7 @@ const PostCard = () => {
             </div>
             <div className="post-card-wrapper group hover:rotate-1 hover:-[1.02] transition duration-700">
                 <img src="/images/overlay.webp" alt="overlay" />
-                <video src="/videos/postcard-vd.mp4" ref={videoRef} muted autoPlay playsInline preload="auto" />
+                <video src="/videos/postcard-vd.mp4" ref={videoRef} autoPlay muted playsInline preload="auto" />
                 <button className="group-hover:bg-yellow transition duration-700">
                     explore Leonida Keys
                 </button>

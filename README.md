@@ -128,5 +128,5 @@ npm run dev
 ## Social
 
 - Instagram: [https://www.instagram.com/alijahan.io/](https://www.instagram.com/alijahan.io/)
-- LinkedIn: [www.linkedin.com/in/ali-jahanyt](https://www.linkedin.com/in/ali-jahanyt)
+- LinkedIn: [https://www.linkedin.com/in/ali-jahanyt](https://www.linkedin.com/in/ali-jahanyt)
 - GitHub: [https://github.com/Alijahanyt](https://github.com/Alijahanyt)

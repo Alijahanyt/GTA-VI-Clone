@@ -24,6 +24,10 @@ This repository contains a polished **GTA VI-inspired landing page** built with 
 
 ## Screenshots
 
+### Live app preview
+
+![Live app screenshot](public/readme/live-screenshot.png)
+
 ### Hero section with animated marquee
 
 ![Hero section screenshot](public/readme/hero.png)
@@ -32,9 +36,16 @@ This repository contains a polished **GTA VI-inspired landing page** built with 
 
 ![GTA-style character card](public/readme/jsmpro.png)
 
-### Video content / scene presentation
+## Development
 
-![Video section screenshot](public/readme/videokit.png)
+To run the project locally:
+
+```bash
+npm install
+npm run dev
+```
+
+Then open the local URL shown in the terminal, usually `http://localhost:5173/`.
 
 ## Key source files
 

@@ -24,17 +24,17 @@ This repository contains a polished **GTA VI-inspired landing page** built with 
 
 ## Screenshots
 
-### Live app preview
+### Main landing section
 
-![Live app screenshot](public/readme/live-screenshot.png)
+![Main landing screenshot](public/readme/gta-vi-clone-pearl.vercel.app_.png)
 
-### Hero section with animated marquee
+### Character section sample 1
 
-![Hero section screenshot](public/readme/hero.png)
+![Character section screenshot](public/readme/gta-vi-clone-pearl.vercel.app_%20(1).png)
 
-### Dark character panel and content layout
+### Character section sample 2
 
-![GTA-style character card](public/readme/jsmpro.png)
+![Character section screenshot](public/readme/gta-vi-clone-pearl.vercel.app_%20(2).png)
 
 ## Development
 
@@ -130,7 +130,3 @@ npm run dev
 - Instagram: [https://instagram.com/your-username](https://instagram.com/your-username)
 - LinkedIn: [https://linkedin.com/in/your-username](https://linkedin.com/in/your-username)
 - GitHub: [https://github.com/your-username](https://github.com/your-username)
-
-## Notes
-
-Update the placeholder social URLs after deployment, and adjust the screenshot paths if you move assets outside `public/readme`.

@@ -127,6 +127,6 @@ npm run dev
 
 ## Social
 
-- Instagram: [https://instagram.com/your-username](https://instagram.com/your-username)
-- LinkedIn: [https://linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Instagram: [https://www.instagram.com/alijahan.io/](https://www.instagram.com/alijahan.io/)
+- LinkedIn: [www.linkedin.com/in/ali-jahanyt](https://www.linkedin.com/in/ali-jahanyt)
+- GitHub: [https://github.com/Alijahanyt](https://github.com/Alijahanyt)
